@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_parent/api_gateway_service/api_gateway_service.iml" filepath="$PROJECT_DIR$/spring_cloud_parent/api_gateway_service/api_gateway_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_parent/eureka_service/eureka_service.iml" filepath="$PROJECT_DIR$/spring_cloud_parent/eureka_service/eureka_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_parent/order_service/order_service.iml" filepath="$PROJECT_DIR$/spring_cloud_parent/order_service/order_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_parent/product_service/product_service.iml" filepath="$PROJECT_DIR$/spring_cloud_parent/product_service/product_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_cloud_parent/spring_cloud_parent.iml" filepath="$PROJECT_DIR$/spring_cloud_parent/spring_cloud_parent.iml" />
+    </modules>
+  </component>
+</project>
